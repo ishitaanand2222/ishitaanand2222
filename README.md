@@ -8,7 +8,7 @@
 - 🤔 I’m looking for SDE internships
 - 📫 Contact me : ishitaanand2222@gmail.com 
 - LinkedIn : <a href="https://www.linkedin.com/in/ishitaanand001/">
-  <img align="left" alt="Ishita's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="right" alt="Ishita's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
