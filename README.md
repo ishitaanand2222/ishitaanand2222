@@ -6,9 +6,8 @@
 - 🔭 I’m currently working on Data Structures and Algorithms, OpenCV and Web Development.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 🤔 I’m looking for SDE internships
-- 📫 Contact me : ishitaanand2222@gmail.com 
-- LinkedIn : <a href="https://www.linkedin.com/in/ishitaanand001/">
-  <img align="right" alt="Ishita's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+- 📫 Contact me : ishitaanand2222@gmail.com or LinkedIn : <a href="https://www.linkedin.com/in/ishitaanand001/">
+  <img align="center" alt="Ishita's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
