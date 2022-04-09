@@ -12,21 +12,11 @@
 
 
 
-
-<!-- <a href="https://www.linkedin.com/in/ishitaanand001/">
-  <img align="left" alt="Ishita's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> -->
-
 <br />
 
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-
-<!--   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
-  
-<!-- - 💼 any freelance work? do reach, [email](mailto:ishitaanand2222@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
- -->
 
 
 
