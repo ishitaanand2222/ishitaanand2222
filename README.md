@@ -1,6 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-   ##### i, I'm Ishita Anand, a self-motivated and flexible prefinal year computer science undergrad who is always passionate about learning and exploring new things about coding and development.
+
+I'm Ishita Anand, a self-motivated and flexible prefinal year computer science undergrad who is always passionate about learning and exploring new things about coding and development.
 <br/>
 
 - 🔭 I’m currently working on Data Structures and Algorithms, OpenCV and Web Development.
