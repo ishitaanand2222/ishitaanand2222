@@ -18,7 +18,7 @@ const ishitaanand = {
        frontEnd: {
             js: ["React"],
             css: ["materialize", "bootstrap"],
-            html
+            html 
         },
         backEnd: {
             js: ["node", "express"],
