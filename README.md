@@ -4,8 +4,8 @@
 <p><em>Full Stack Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-riddhi%20suteri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riddhi-suteri/)](https://www.linkedin.com/in/ishitaanand001/) 
-[![Gmail Badge](https://img.shields.io/badge/-ridsuteri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ridsuteri@gmail.com)](mailto:ishitaanand2222@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-riddhi%20suteri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishitaanand001/)](https://www.linkedin.com/in/ishitaanand001/) 
+[![Gmail Badge](https://img.shields.io/badge/-ishitaanand2222@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishitaanand2222@gmail.com)](mailto:ishitaanand2222@gmail.com)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
