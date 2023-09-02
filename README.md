@@ -1,8 +1,8 @@
 <h2>नमस्ते (Namaste)🙏🏻,  I'm Ishita Anand !
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<!-- <p><em>Full Stack Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p> -->
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
+<p><em>Full Stack Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ishita%20anand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishitaanand001/)](https://www.linkedin.com/in/ishitaanand001/) 
 [![Gmail Badge](https://img.shields.io/badge/-ishitaanand2222@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishitaanand2222@gmail.com)](mailto:ishitaanand2222@gmail.com)
@@ -30,8 +30,6 @@ const ishitaanand = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-
-<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" /> -->
 
 
 
