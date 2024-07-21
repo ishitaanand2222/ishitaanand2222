@@ -16,7 +16,7 @@ const ishitaanand = {
     askMeAbout: ["Web Developemnt", "DSA", "Web"],
     technologies:{
        frontEnd: {
-            js: ["React"],
+            js: ["React.js", "Angular"],
             css: ["materialize", "bootstrap, tailwind"],
             html 
         },
