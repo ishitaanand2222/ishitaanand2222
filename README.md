@@ -12,7 +12,7 @@
 ```javascript
 const ishitaanand = {
     pronouns: "She" | "Her",
-    code: [Javascript, C++, Java, C],
+    code: [Typescript, Javascript, C#, C++, Java, C],
     askMeAbout: ["Web Developemnt", "DSA", "Web"],
     technologies:{
        frontEnd: {
@@ -21,7 +21,7 @@ const ishitaanand = {
             html 
         },
         backEnd: {
-            js: ["node", "express"],
+            js: ["dotnet", "node", "express"],
         },
         databases: ["mongo","sql"],
         misc: ["render"]
