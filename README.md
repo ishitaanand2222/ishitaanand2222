@@ -21,7 +21,8 @@ const ishitaanand = {
             html 
         },
         backEnd: {
-            js: ["dotnet", "node", "express"],
+            js: ["node", "express"],
+            dotnet
         },
         databases: ["mongo","sql"],
         misc: ["render"]
