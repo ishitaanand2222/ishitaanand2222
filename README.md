@@ -25,7 +25,8 @@ const ishitaanand = {
             dotnet
         },
         databases: ["mongo","sql"],
-        misc: ["render"]
+        misc: ["render"],
+        ci/cd: ["Github Actions", "Azure DevOps"]
     },
     challenge: "Conquering Challenges with Development Expertise",
     funFact: "There are two ways to write error-free programs; only the third one works"
