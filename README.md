@@ -138,8 +138,8 @@ I particularly enjoy solving problems around:
 
 ## 🏆 Certifications & Learning
 
-* ☁️ AWS Cloud Practitioner — Learning / Preparation
-* ☁️ Oracle Cloud Infrastructure AI Foundations
+* ☁️ Certified AWS Cloud Practitioner.
+* ☁️ Certified Oracle Cloud Infrastructure AI Foundations
 * 📚 Continuous learning through technical courses and hands-on projects
 ---
 
